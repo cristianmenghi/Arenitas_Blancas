@@ -14,13 +14,13 @@ Barometrica Salto [+598 99 297 532‬](tel://+59899297532‬)
 
 **Deliverys**
 
- [Trouville Centro](tel://47329331) * llega al barrio +$500
+ [Trouville Centro](tel://47329331) 47329331 * llega al barrio +$500
 
- [Bocatti Empanadas](tel://47344888) *llega hasta saladero, se coordina
+ [Bocatti Empanadas](tel://47344888) 47344888 *llega hasta saladero, se coordina
  
 **Internet y Telefonia**
 
-ANTEL [Internet Rural Premium](https://tienda.antel.com.uy/plan/mdm:prdoff:id:1915)
+ANTEL [Internet Rural Premium](https://tienda.antel.com.uy/plan/mdm:prdoff:id:1915) Incluye UrbanCel (obligatorio)
 
 **Telefonos utilidad**
 
