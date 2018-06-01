@@ -12,6 +12,12 @@ El Raval [+598 98 736 237‬](tel://+59898736237‬)
 
 Barometrica Salto [+598 99 297 532‬](tel://+59899297532‬)
 
+**Recoleecion**
+
+Residuos: Lunes, Miércoles y Viernes despues del medio día
+
+Podas: 2do Viernes de cada mes
+
 **Deliverys**
 
  [Trouville Centro 47329331](tel://47329331)  * llega al barrio +$500
@@ -27,6 +33,9 @@ ANTEL [Internet Rural Premium](https://tienda.antel.com.uy/plan/mdm:prdoff:id:19
 Mesa Central Policia [+598 2152 6300‬](tel://+59821526300)
 
 Seccional 3ra [+598 2152 6336‬](tel://+59821526336)
+
+Servicios Publicos [47334005](tel://47334005) o [47332430](tel://47332430) Encargado [099653635](tel://+59899653635)
+
 
 [**Suscripción grupos Whatsapp**](http://urls.uy/vecinos)  http://urls.uy/vecinos
 
