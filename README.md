@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+Bienvenidos al wiki de recursos de [Arenitas Blancas](https://es.wikipedia.org/wiki/Arenitas_Blancas)
 
-You can use the [editor on GitHub](https://github.com/cristianmenghi/Arenitas_Blancas/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Horario Omnibus**
 
-### Markdown
+ - Desde plaza Artigas: 7:10  12:30  17:15 
+ - Desde Arenitas/Villa Maguey: 7:30  13:00  17:45 *aproximadamente 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Servicio Barometricas**
 
-```markdown
-Syntax highlighted code block
+El Raval [+598 98 736 237‬](tel://+59898736237‬)
 
-# Header 1
-## Header 2
-### Header 3
+Barometrica Salto [+598 99 297 532‬](tel://+59899297532‬)
 
-- Bulleted
-- List
+**Deliverys**
 
-1. Numbered
-2. List
+ [Trouville Centro](tel://47329331) * llega al barrio +$500
 
-**Bold** and _Italic_ and `Code` text
+ [Bocatti Empanadas](tel://47344888) *llega hasta saladero, se coordina
+ 
+**Internet y Telefonia**
 
-[Link](url) and ![Image](src)
-```
+ANTEL [Internet Rural Premium](https://tienda.antel.com.uy/plan/mdm:prdoff:id:1915)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Telefonos utilidad**
 
-### Jekyll Themes
+Mesa Central Policia [+598 2152 6300‬](tel://+59821526300)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cristianmenghi/Arenitas_Blancas/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Seccional 3ra [+598 2152 6336‬](tel://+59821526336)
 
-### Support or Contact
+[**Suscripción grupos Whatsapp**](http://urls.uy/vecinos)  http://urls.uy/vecinos
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Mapas**
+![enter image description here](http://1.bp.blogspot.com/-d_KKneXYtkU/T8yRo3hssVI/AAAAAAAAAAs/pblC8MBYZwg/s1600/ab_nomenclador.jpg)
