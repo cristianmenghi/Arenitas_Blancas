@@ -1,4 +1,4 @@
-Bienvenidos al wiki de recursos de [Arenitas Blancas](https://es.wikipedia.org/wiki/Arenitas_Blancas)
+Bienvenidos al sitio de recursos de [Arenitas Blancas](https://es.wikipedia.org/wiki/Arenitas_Blancas)
 
 
 **Horario Omnibus**
