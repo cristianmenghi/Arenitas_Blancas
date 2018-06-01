@@ -12,7 +12,7 @@ El Raval [+598 98 736 237‬](tel://+59898736237‬)
 
 Barometrica Salto [+598 99 297 532‬](tel://+59899297532‬)
 
-**Recoleecion**
+**Recolección**
 
 Residuos: Lunes, Miércoles y Viernes despues del medio día
 
