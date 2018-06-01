@@ -34,7 +34,9 @@ Mesa Central Policia [+598 2152 6300‬](tel://+59821526300)
 
 Seccional 3ra [+598 2152 6336‬](tel://+59821526336)
 
-Servicios Publicos [47334005](tel://47334005) o [47332430](tel://47332430) Encargado [099653635](tel://+59899653635)
+Servicios Publicos [47334005](tel://47334005) o [47332430](tel://47332430) 
+
+Encargado Alumbrado [099653635](tel://+59899653635)
 
 
 [**Suscripción grupos Whatsapp**](http://urls.uy/vecinos)  http://urls.uy/vecinos
