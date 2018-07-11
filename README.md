@@ -38,6 +38,7 @@ Servicios Publicos [47334005](tel://47334005) o [47332430](tel://47332430)
 
 Encargado Alumbrado [099653635](tel://+59899653635)
 
+Vialidad [4733 5719](tel://47335719)
 
 [**Suscripción grupos Whatsapp**](http://urls.uy/vecinos)  http://urls.uy/vecinos
 
