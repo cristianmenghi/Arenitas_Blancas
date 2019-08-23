@@ -24,9 +24,17 @@ Podas: 2do Viernes de cada mes
 
  [Bocatti Empanadas 47344888](tel://47344888)  *llega hasta saladero, se coordina
  
+ [Nacha Pizzeria +59899708470](tel://+59899708470) 
+ 
+ [La Pizzeria +59898659288](tel://+59898659288)
+ 
+ [Mamma Mia 4733 0389](tel://47330389)
+ 
 **Internet y Telefonia**
 
-ANTEL [Internet Rural Premium](https://tienda.antel.com.uy/plan/mdm:prdoff:id:1915) Incluye UrbanCel (obligatorio)
+ANTEL [Plan Internet inalámbrico 1 (150GB 20/2) ](https://tienda.antel.com.uy/plan/mdm:prdoff:id:3344) Incluye UrbanCel (obligatorio) $1.060
+
+ANTEL [Plan Internet inalámbrico 2 (300GB 20/2) ](https://tienda.antel.com.uy/plan/mdm:prdoff:id:3345) Incluye UrbanCel (obligatorio) $1.400
 
 **Telefonos utilidad**
 
