@@ -4,12 +4,12 @@ Bienvenidos al sitio de recursos de [Arenitas Blancas](https://es.wikipedia.org/
 **Horario Omnibus**
 
 Lunes a Viernes
-- Desde plaza Artigas: 7:10  12:30  17:15 
+- Desde plaza Artigas: 7:10  12:30  17:15  *aproximadamente
 - Desde Arenitas/Villa Maguey: 7:30  13:00  17:45 *aproximadamente
 
 Sabados
-- Desde plaza Artigas:
-- Desde Arenitas/Villa Maguey:  *aproximadamente
+- Desde plaza Artigas: 7:10  12:30  *aproximadamente
+- Desde Arenitas/Villa Maguey: 7:30  13:00 *aproximadamente
 
 
 **Servicio Barometricas**
