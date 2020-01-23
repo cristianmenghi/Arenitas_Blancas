@@ -50,7 +50,7 @@ Seccional 3ra [+598 2152 6336‬](tel://+59821526336)
 
 Servicios Publicos [47334005](tel://47334005) o [47332430](tel://47332430) 
 
-Encargado Alumbrado [099653635](tel://+59899653635)
+~~Encargado Alumbrado [099653635](tel://+59899653635)~~ Se jubilo.
 
 Vialidad [4733 5719](tel://47335719)
 
