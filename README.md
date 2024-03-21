@@ -14,9 +14,12 @@ Sabados
 
 **Servicio Barometricas**
 
+La Baro [+598 98 344 288](tel//+59898344288)
+
 El Raval [+598 98 736 237‬](tel://+59898736237‬)
 
 Barometrica Salto [+598 99 297 532‬](tel://+59899297532‬)
+
 
 **Recolección**
 
@@ -38,9 +41,11 @@ Podas: 2do Viernes de cada mes
  
 **Internet y Telefonia**
 
-ANTEL [Plan Internet inalámbrico 1 (150GB 20/2) ](https://tienda.antel.com.uy/plan/mdm:prdoff:id:3344) Incluye UrbanCel (obligatorio) $1.060
+ANTEL [PLANES DE FIBRA](https://tienda.antel.com.uy/categoria/internet/hogar/planos)
 
-ANTEL [Plan Internet inalámbrico 2 (300GB 20/2) ](https://tienda.antel.com.uy/plan/mdm:prdoff:id:3345) Incluye UrbanCel (obligatorio) $1.400
+~~ANTEL [Plan Internet inalámbrico 1 (150GB 20/2) ](https://tienda.antel.com.uy/plan/mdm:prdoff:id:3344) Incluye UrbanCel (obligatorio) $1.060~~
+
+~~ANTEL [Plan Internet inalámbrico 2 (300GB 20/2) ](https://tienda.antel.com.uy/plan/mdm:prdoff:id:3345) Incluye UrbanCel (obligatorio) $1.400~~
 
 **Telefonos utilidad**
 
