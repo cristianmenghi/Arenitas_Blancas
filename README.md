@@ -63,3 +63,21 @@ Vialidad [4733 5719](tel://47335719)
 
 **Mapas**
 ![enter image description here](http://1.bp.blogspot.com/-d_KKneXYtkU/T8yRo3hssVI/AAAAAAAAAAs/pblC8MBYZwg/s1600/ab_nomenclador.jpg)
+
+**Servicios en arenitas**
+
+| Servicio                                            | Nombre             | Celular     | Teléfono | Dirección               |
+|-----------------------------------------------------|--------------------|-------------|----------|-------------------------|
+| COCHE ESCUELA - ACADEMIA DE CONDUCCION              | ANA LAURA          | 096 187 213 |          |                         |
+| REPUESTOS AUTOS CAMIONETAS - NUEVOS Y USADOS        | MARCELO FREITAS    | 099 668 819 | 47334031 | VILARDEBO 925, CASI 33  |
+| REPUESTOS DE CAMION - TODO TRUCK                    | ALEJANDRA TURINO   | 099 737 942 |          | MANUEL ORIBE 2865       |
+| MASAJES - SERVICIOS DE                              | NATALIA OLIVERA    | 098 390 116 |          | VILLA MAGUEY            |
+| MILANESAS DE POLLO O CARNE, MUSLOS Y ALITAS DE POLLO| LOURDES            | 091 797 484 |          | VILLA MAGUEY            |
+| CUADROS - ACUARELA - @Tannat@Acuarelas              | ROSARIO ARIETA     | 099 004 934 |          | ARENITAS BLANCAS        |
+| CARTELERIA - IMPRENTA - SAGITARIO                   | NELSON DE SOUZA    | 099 039 421 |          |                         |
+| ABOGADA - CONSULTA GRATIS A LOS VECINOS             | MARTHA JANNET RICHARD| 099 735 837 |        | ARTIGAS 1164            |
+| PSICOLOGA - PROFESORA DE YOGA Y HERBORISTERIA       | ANA CLAUDIA ACOSTA | 099 484 867 |          | ARENITAS BLANCAS        |
+| PSICOLOGA - TALLERES DE ESTIMULACION                | BELEN TRINDADE     | 091 205 675 |          | ARENITAS BLANCAS        |
+| PASTELES - TORTAS - EMPANADAS                       | BELEN TRINDADE     | 091 205 675 |          | ARENITAS BLANCAS        |
+| REINA NARANJA - PRODUCTOS DE LIMPIEZA               | MAJE AGUIRRE       | 099 198 165 |          | ARENITAS BLANCAS        |
+| ABOGADO -                                           | SERGIO ROSTAN      | 098 908 670 |          | AHUE 230                |
