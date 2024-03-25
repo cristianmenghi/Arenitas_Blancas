@@ -81,3 +81,8 @@ Vialidad [4733 5719](tel://47335719)
 | PASTELES - TORTAS - EMPANADAS                       | BELEN TRINDADE       | 091 205 675 | ARENITAS BLANCAS        |
 | REINA NARANJA - PRODUCTOS DE LIMPIEZA               | MAJE AGUIRRE         | 099 198 165 | ARENITAS BLANCAS        |
 | ABOGADO -                                           | SERGIO ROSTAN        | 098 908 670 | AHUE 230                |
+| REPINTADO AUTOMOTRIZ - FIBRA DE VIDRIO              | WALTER VOLPÌ         | 099 734 643 | BRASIL 2327             |
+| PSICOLOGA - ESPACIO EUREKA NIÑOS Y ADOLESCENTES     | VALENTINA MORAES     | 091 341 030 |                         |
+| TIN MARKET                                          |                      | 099 863 041 | TABARE 236              |
+| PARTY COMBI BAR  BARRAS DE TRAGOS FIESTAS Y EVENTOS | MARTIN FERREIRA PINTO| 099 863 041 |                         |
+| EDUCACION FISICA - LICENCIADO                       | IGNACIO ALMEDA       | 091 095 655 | CARACE 40               |
