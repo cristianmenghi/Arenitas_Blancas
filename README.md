@@ -86,3 +86,8 @@ Vialidad [4733 5719](tel://47335719)
 | TIN MARKET                                          |                      | 099 863 041 | TABARE 236              |
 | PARTY COMBI BAR  BARRAS DE TRAGOS FIESTAS Y EVENTOS | MARTIN FERREIRA PINTO| 099 863 041 |                         |
 | EDUCACION FISICA - LICENCIADO                       | IGNACIO ALMEDA       | 091 095 655 | CARACE 40               |
+| TALLER DE CHAPA Y PINTURA - LIBONATTI JUNIORS 	|Augusto Libonati 	| 091 262 639	| Avda. Reyles 180 |
+| ESCUELA DE PANADERIA - CURSOS Y TALLERES |	Andres Damiano |	099 738 551 |	Brasil 672 local 1 |
+| IMPRENTA - FOTOCOPIAS - FOTO CARNET	| Tipografia Norte srl |	099 782 694 |	Uruguay 1383 |
+| PUNTO CRUZ - TALLERES PARA NIÑOS Y ADULTOS | Olga Chegüen |	099 657 768 |	Arenitas Blancas |
+| MASAJES - REIKI - TAROT - GEMOTERAPIA - REG. ARKASTICOS| 	Marina|	093 635 692	| Errandonea 27 |
